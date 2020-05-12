@@ -85,7 +85,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`uid`, `email`, `password`, `username`, `status`, `profil_image`) VALUES
-(1, 'admin@test.com', '3c539670c9c755ec2fbfc95a8c818f46', 'Admin', 'super_admin', 'Admin.png'),
+(1, 'admin@test.com', '21232f297a57a5a743894a0e4a801fc3', 'Admin', 'super_admin', 'Admin.png'),
 (2, 'User_Avatar@test.com', 'Ban_User_For_Site', 'User_Avatar', 'super_admin', 'User_Avatar.png'),
 
 --
